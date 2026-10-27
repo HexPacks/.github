@@ -3,11 +3,11 @@
 
 <img src="https://github.com/HexPacks.png" width="108" alt="HexPacks Logo">
 
-# HexPacks
+<h1>HexPacks</h1>
 
 by hexer mc
 
----
+<br>
 
 A collection of Minecraft Bedrock resource packs, created, maintained, and converted to preserve unique styles and improve the ingame experience.
 
@@ -15,7 +15,7 @@ A collection of Minecraft Bedrock resource packs, created, maintained, and conve
 
 ---
 
-## Credits & Contact
+<h2>Credits & Contact</h2>
 
 If a pack includes a `CREDITS.txt` file, please read it for credits to the original creators and contributors.
 
