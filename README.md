@@ -1,19 +1,14 @@
-
 <div align="center">
 
 <img src="https://github.com/HexPacks.png" width="108" alt="HexPacks Logo">
 
-<h1>HexPacks</h1>
-
-by hexer mc
-
-<br>
+<h1>HexPacks<br><sub><span style="font-weight: normal;">by hexer mc</span></sub></h1>
 
 A collection of Minecraft Bedrock resource packs, created, maintained, and converted to preserve unique styles and improve the ingame experience.
 
 *Built over time. Shared with the community.*
 
----
+<br>
 
 <h2>Credits & Contact</h2>
 
